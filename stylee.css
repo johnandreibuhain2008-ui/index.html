@@ -1,0 +1,19 @@
+
+
+.wrapper {
+    padding: 0 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 2rem;
+}
+
+.intro {
+    flex: 1;
+}
+
+
+.link a {
+    color: beige;
+}
